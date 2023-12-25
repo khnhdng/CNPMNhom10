@@ -10,7 +10,7 @@
   "keywords": [
     "fullstack"
   ],
-  "author": "Hai Anh",
+  "author": "Khanh Dung",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
