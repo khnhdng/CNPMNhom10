@@ -35784,7 +35784,7 @@ img {
     font-weight: 400;
     font-size: 1.3rem
 }
-
+ds
 .masthead .dropdown a:focus,
 .masthead .dropdown a:hover {
     color: #000;
@@ -35998,7 +35998,7 @@ img {
 }
 
 .masthead .search .searchCommit {
-    background: #267788;
+    background: #08c1e6;
     height: 6rem;
     width: auto;
     padding: 0 1rem
@@ -36006,11 +36006,11 @@ img {
 
 .masthead .search .searchCommit:focus,
 .masthead .search .searchCommit:hover {
-    background: #1b5460
+    background: #00ccf5
 }
 
 .masthead .navBar {
-    background: #37003c;
+    background: #aa083a;
     line-height: 6rem;
     color: #fff;
     top: 0;
@@ -36220,7 +36220,7 @@ img {
         border: 0;
         padding: 1.5rem 1rem 1.5rem 4rem;
         line-height: 1;
-        background: #37003c;
+        background: #aa083a;
         width: 30%;
         font-size: 1.4rem;
         margin-bottom: .2rem;
@@ -36260,11 +36260,11 @@ img {
     }
 
     .masthead .mainNav .navLink:focus:focus {
-        background: #4e0056
+        background: #aa083a
     }
 
     .masthead .mainNav .navLink.active.active {
-        background-color: #4e0056;
+        background-color: #aa083a;
         color: #fff
     }
 
@@ -37043,11 +37043,9 @@ body.webViewBody {
 
 .mainFooter .footerContent {
     padding: 10rem 4rem;
-    background: #37003c;
-    background-image: url(../photos/i/bg-elements/pl-footer.svg);
+    background: #aa083a;
     background-position: bottom;
-    background-size: 100% auto;
-    background-repeat: no-repeat
+    background-size: 100% auto
 }
 
 .mainFooter .footerContent .icn {
@@ -49844,7 +49842,7 @@ div.fixture.live:hover .arrow-right {
 }
 
 .pageHero {
-    background-color: #37003c;
+    background-color: #b3033e;
     margin-top: -2rem;
     background-image: url(../photos/i/bg-elements/heading-bg-desktop.svg);
     background-position: 100% 100%;

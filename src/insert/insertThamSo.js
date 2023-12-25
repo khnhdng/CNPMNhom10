@@ -14,7 +14,7 @@ async function insertTS()
         const newTS1 = 
         {
             tenThamSo: 'Tuổi cầu thủ tối thiểu',
-            giaTri: '16'
+            giaTri: '16',
         };
         const TS1 = await Ts.create(newTS1);
         console.log('TS1 created: ', TS1.toJSON());
